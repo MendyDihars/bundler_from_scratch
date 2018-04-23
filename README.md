@@ -1,3 +1,3 @@
 # Bundler Config
 
-Just a test
+Just a try for configure Bundler without Rails.
